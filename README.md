@@ -13,7 +13,8 @@ Main purpose of the Eureka Naming server is dynamic load balancing and handling 
 
 By default, the config service runs at ``` http://localhost:8761 ```
 
-
+More information about Eureka 
+https://github.com/Netflix/eureka/wiki/Configuring-Eureka
 
 ## Requirements:
 - Java version 1.8
